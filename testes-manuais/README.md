@@ -15,4 +15,13 @@ Praticar testes funcionais em aplicações web, verificando se as funcionalidade
 - Navegador web
 
 ## Aprendizados
-Este projeto reúne práticas de teste manual e documentação de resultados, desenvolvidas durante meus estudos em QA.
+Atualmente, estou estudando Quality Assurance (QA) e desenvolvendo minhas habilidades por meio de estudos teóricos e atividades práticas.
+
+Durante minha jornada, estou praticando:
+- Criação e execução de casos de teste manuais.
+- Análise de resultados esperados e encontrados.
+- Identificação e documentação de possíveis bugs.
+- Registro de evidências de testes.
+- Atividades práticas durante a Residência Clickmax.
+
+Este projeto reúne parte dos meus aprendizados e da minha evolução na área de testes de software.
